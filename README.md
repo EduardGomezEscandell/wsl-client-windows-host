@@ -4,7 +4,7 @@ This repository explores how to get a server running on a Windows host, serving 
 
 ## Build the project
 
-The code is a basic HTTP server that responds `Hello, world`. You need On WSL, run:
+The code is a basic HTTP server that responds `Hello, world`. On WSL, run:
 ```bash
 # Install Go if you don't have it
 sudo apt update
