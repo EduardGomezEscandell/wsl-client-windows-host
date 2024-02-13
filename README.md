@@ -117,7 +117,7 @@ We'll try the same experiment with a firewall exception.
 
 With the firewall exception enabled, start the server on Windows:
 ```powershell
-./server/server ":8080"
+./server/server "localhost:8080"
 ```
 Run the client from within WSL:
 ```bash
